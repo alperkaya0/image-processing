@@ -25,3 +25,13 @@ You can do texture segmenting:
   Output:
   
   ![](https://github.com/alperkaya0/ImageProcessing/blob/main/anime2.jpg)
+
+You can do picture omitting(to detect differences):
+
+Inputs:
+
+![](https://github.com/alperkaya0/ImageProcessing/blob/main/11.jpg) ![](https://github.com/alperkaya0/ImageProcessing/blob/main/22.jpg)
+
+Output:
+
+![](https://github.com/alperkaya0/ImageProcessing/blob/main/INTERSECTIONS%20GRAY%2022.png)
