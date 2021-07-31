@@ -18,3 +18,10 @@ You can do texture segmenting:
   ![](https://github.com/alperkaya0/ImageProcessing/blob/main/Standard%20deviation%20False%20Binarized%20False%20Sigmoid%20False%20animegirl%20INVERTED.jpg)
   
 
+  Input:
+  
+  ![](https://github.com/alperkaya0/ImageProcessing/blob/main/anime.jpg)
+  
+  Output:
+  
+  ![](https://github.com/alperkaya0/ImageProcessing/blob/main/anime2.jpg)
