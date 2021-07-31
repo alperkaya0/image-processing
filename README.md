@@ -35,3 +35,7 @@ Inputs:
 Output:
 
 ![](https://github.com/alperkaya0/ImageProcessing/blob/main/INTERSECTIONS%20GRAY%2022.png)
+
+Or you can combine these and clear background of your text pictures:
+
+![](https://github.com/alperkaya0/ImageProcessing/blob/main/indir.png)
