@@ -7,6 +7,8 @@ What is opening, closing ?
 
 ![](https://github.com/alperkaya0/ImageProcessing/blob/main/Opening%20and%20Closing%20Morphological%20Operations.png)
 
+![](https://github.com/alperkaya0/ImageProcessing/blob/main/Opening%20an%20image.jpg)
+
 You can do texture segmenting:
 
   Input:
