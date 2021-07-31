@@ -25,6 +25,22 @@ You can do texture segmenting:
   Output:
   
   ![](https://github.com/alperkaya0/ImageProcessing/blob/main/anime2.jpg)
+  
+  Input:
+  
+  ![](https://github.com/alperkaya0/ImageProcessing/blob/main/yotsugi_ononoki.jpg)
+  
+  Output:
+  
+  ![](https://github.com/alperkaya0/ImageProcessing/blob/main/Standard%20deviation%20False%20Binarized%20False%20Sigmoid%20False%20yotsugi_ononoki%20INVERTED.jpg)
+  
+  Input:
+  
+  ![](https://github.com/alperkaya0/ImageProcessing/blob/main/flatfish.jpg)
+  
+  Output:
+  
+  ![](https://github.com/alperkaya0/ImageProcessing/blob/main/Standard%20deviation%20False%20Binarized%20False%20Sigmoid%20False%20Adaptive%20Thresholding%20Square%20Size%20100%20flatfish%20(1).jpg)
 
 You can do picture omitting(to detect differences):
 
